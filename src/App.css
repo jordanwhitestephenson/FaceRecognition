@@ -1,6 +1,7 @@
 .App {
   text-align: center;
 }
+
 .center {
   display: flex;
   justify-content: center;
@@ -8,8 +9,6 @@
 
 .particles {
   position: fixed;
-  height: 100%;
-  width: 100%;
   top: 0;
   right: 0;
   bottom: 0;
